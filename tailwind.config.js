@@ -16,6 +16,9 @@ module.exports = {
         black: "#000000",
         white: "#ffffff",
         skyBlue: "#36A2EB",
+        green1: "#323232",
+        lime1: "#A1C16D",
+        sand: "#f5f4d7"
     },
     height: (theme) => ({
         "screen/2": "50vh",
