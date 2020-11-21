@@ -18,6 +18,7 @@ class Portfolio extends Component {
                     id={project.id}
                     key={project.id}
                     name={project.name}
+                    image={project.image}
                     description={project.description}
                 />
             ))}

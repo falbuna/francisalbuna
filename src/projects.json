@@ -2,16 +2,19 @@
 {
     "id": 1,
     "name": "Seeds",
+    "image": "https://github.com/falbuna/francisalbuna/blob/main/src/assets/images/Seeds.png",
     "description": "Gratitude tracker"
 },
 {
     "id": 2,
     "name": "Buff",
+    "image": "https://github.com/falbuna/francisalbuna/blob/main/src/assets/images/MovieQuiz.PNG",
     "description": "Movie quiz game"
 },
 {
     "id": 3,
     "name": "Burger Time",
+    "image": "https://github.com/falbuna/francisalbuna/blob/main/src/assets/images/BurgerTime.png",
     "description": "Burger eating app."
 }
 ]
