@@ -4,15 +4,17 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Header from "./components/Header";
 import './index.css';
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <Router>
-    <div div className="bg-sand">
+    <div>
       <Header />
         <Route exact path="/" component={About} /> 
         <Route exact path="/about" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
+      <Footer />
     </div>
     </Router>
   );
