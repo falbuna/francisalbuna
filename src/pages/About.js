@@ -31,7 +31,7 @@ function About(){
       </div>
       <div className="mt-8 lg:mt-0">
         <div className="text-base max-w-prose mx-auto lg:max-w-none">
-          <p className="text-lg font-bold text-black">Welcome to my mini biography and personal portfolio.</p>
+          <p className="text-lg font-bold text-black">And welcome to my personal portfolio.</p>
         </div>
         <div className="mt-5 prose prose-indigo text-gray-600 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
           <p>I graduated in 2010 with a Bachelor of Science in Electrical Engineering at the University of California, Irvine. I am currently enrolled in the 6-month coding program at the University of California, San Diego Extension.</p>

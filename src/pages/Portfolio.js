@@ -3,7 +3,14 @@ import PortfolioCard from "../components/PortfolioCard";
 import projects from "../projects.json";
 import Seeds from "../assets/images/Seeds.png";
 
-function Portfolio(){
+class Portfolio extends Component {
+
+    state = {
+      projects
+    };
+
+
+ render (){
     return(
 
 <div className="bg-white">
@@ -59,6 +66,7 @@ function Portfolio(){
   </div>
 </div> 
     )
+}
 }
 
 export default Portfolio;
