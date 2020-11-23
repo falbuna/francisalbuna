@@ -1,7 +1,7 @@
 import React from "react";
 import resume from "../../assets/documents/Francis_Albuna_Resume.pdf"
 
-function Header( { fixed}) {
+function Header() {
 
     const [navbarOpen, setNavbarOpen] = React.useState(false);
 
@@ -40,13 +40,11 @@ return (
     </div>
   </div>
 
-  <div className={
-    (navbarOpen ? "sm:hidden" : "hidden")
-  }>
+  <div className={(navbarOpen ? "sm:hidden" : "hidden")}>
     <div className="px-2 pt-2 pb-3 border-b border-gray-400">
-      <a href="/" className="block px-3 py-2 rounded-md text-base font-medium text-white bg-gray-900 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out">Resume</a>
+      <a href={resume} className="block px-3 py-2 rounded-md text-base font-medium text-white bg-gray-900 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out">Resume</a>
       <a href="About" className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out">About</a>
-      <a href="Portfolio" className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out">Portflio</a>
+      <a href="Portfolio" className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out">Portfolio</a>
       <a href="Contact" className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out">Contact</a>
     </div>
   </div>
