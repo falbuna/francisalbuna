@@ -35,7 +35,7 @@ function About(){
         </div>
         <div className="mt-5 prose prose-indigo text-gray-600 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
           <p>I graduated in 2010 with a Bachelor of Science in Electrical Engineering at the University of California, Irvine. I am currently enrolled in the 6-month coding program at the University of California, San Diego Extension.</p>
-          <p>While taking the 6-month coding program, I found a passion in creating responsive and user-friendly applications and further my understanding in new and existing technologies. I am also determined in using my extensive experience in electronics and IT support to succeed in a different career field and web development.</p>
+          <p>While taking the 6-month coding program, I found a passion in creating responsive and user-friendly applications and interest in developing my understanding in new and existing technologies. I am also determined in using my extensive experience in electronics troubleshooting, manufacturing leadership and development, and IT support to succeed and excel in a different career field.</p>
           <p>In my spare time, you can find me cooking, watching movies, playing video games, or staying active by lifting weights or hiking.</p>
           {/* <ul>
             <li>Quis elit egestas venenatis mattis dignissim.</li>
