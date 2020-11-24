@@ -7,15 +7,17 @@ function Project(props){
         <ul className="space-y-12 sm:divide-y sm:divide-gray-200 sm:space-y-0 sm:-mt-8 lg:gap-x-8 lg:space-y-0">
             <li className="sm:py-8">
                 <div className="space-y-4 sm:grid sm:grid-cols-3 sm:items-start sm:gap-6 sm:space-y-0">
-                    <div className="aspect-w-3 aspect-h-2 sm:aspect-w-3 sm:aspect-h-4">
-                        <img className="object-cover shadow-lg rounded-lg" src={props.image} alt={props.title} />
+                  <a href={props.link}>
+                    <div className="opacity-50 hover:opacity-100 aspect-w-3 aspect-h-2 sm:aspect-w-3 sm:aspect-h-4">
+                        <img className="object-cover shadow-lg rounded-lg"  src={props.image} alt={props.title} />
                     </div>
+                  </a>
                 <div className="sm:col-span-2">
                   <div className="space-y-4">
                     <div className="text-lg leading-6 font-medium space-y-1">
                       <h3>{props.title}</h3>
                       <a href={props.link}>
-                      <p className="text-indigo-600">{props.link}</p>
+                      <p className="text-indigo-400 hover:text-blue1">{props.link}</p>
                       </a>
                     </div>
                     <div className="text-lg">

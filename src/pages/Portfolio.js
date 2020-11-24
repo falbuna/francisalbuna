@@ -28,6 +28,7 @@ class Portfolio extends Component {
               image={project.image}
               description={project.description}
               link={project.link}
+              github={project.github}
               />
             ))}
           </div>
