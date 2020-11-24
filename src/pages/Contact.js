@@ -9,7 +9,7 @@ function Contact(){
       <div className="space-y-5 sm:space-y-4">
         <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">Contact</h2>
         <p className="text-xl text-gray-600"> You can contact me by filling out the information in the form and clicking submit.</p>
-        <p className="text-xl text-gray-600"> You can also reach me at my email here: <a className="text-gray-500 hover:text-gray-900" href="mailto:falbuna1@gmail.com">falbuna1@gmail.com</a>.</p>
+        <p className="text-xl text-gray-600"> You can also reach me at my email here: <a className="text-gray-700 hover:text-blue1" href="mailto:falbuna1@gmail.com">falbuna1@gmail.com</a>.</p>
       </div>
   
     
