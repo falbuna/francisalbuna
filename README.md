@@ -20,7 +20,7 @@ On a mobile device:
 
 Clicking on the button on the top right will expand and hide the navigation bar.
 
-![Home page on mobile view with the Nav Bar.]()
+![Home page on mobile view with the Nav Bar.](https://github.com/falbuna/francisalbuna/blob/main/assets/MobilePageNav.PNG)
 
 ## Contact Me
 
