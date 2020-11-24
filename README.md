@@ -4,11 +4,11 @@ The link for this Portfolio can be found here: [https://guarded-stream-03867.her
 
 ## Introduction
 
-This Portfolio was made with HTNL, React.js, Tailwind CSS.
+This Portfolio was made with HTML, React.js, Tailwind CSS.
 
 ## Usage
 
-My portfolio is mobile responsive. This was done through Tailwind CSS.
+This portfolio was mobile responsive and styled through the Tailwind CSS framework.
 
 On a desktop: 
 
