@@ -10,6 +10,7 @@
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
     "autoprefixer": "^10.0.2",
+    "json-loader": "^0.5.7",
     "postcss": "^8.1.9",
     "postcss-cli": "^8.2.0",
     "react": "^17.0.1",

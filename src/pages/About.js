@@ -1,5 +1,4 @@
 import React from "react";
-import bio from "../assets/images/bio-image.jpg";
 
 function About(){
     return(
@@ -24,7 +23,7 @@ function About(){
         <div className="relative text-base mx-auto max-w-prose lg:max-w-none">
           <figure>
             <div className="aspect-w-12 aspect-h-7 lg:aspect-none">
-              <img className="rounded-lg shadow-lg object-cover object-center" src={bio} alt="Francis on a beach in Boracay." width="1184" height="1376" />
+              <img className="rounded-lg shadow-lg object-cover object-center" src="/assets/images/bio-image.jpg" alt="Francis on a beach in Boracay." width="1184" height="1376" />
             </div>
           </figure>
         </div>

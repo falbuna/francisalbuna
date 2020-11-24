@@ -1,20 +1,50 @@
 [
 {
     "id": 1,
-    "name": "Seeds",
-    "image": "https://github.com/falbuna/francisalbuna/blob/main/src/assets/images/Seeds.png",
-    "description": "Gratitude tracker"
+    "title": "Seeds",
+    "link": "https://hidden-caverns-84141.herokuapp.com/",
+    "image": "/assets/images/Seeds.png",
+    "description": "Seeds is designed to help people be more happy by teaching them to be mindful of what is causing negative patterns in their life in order to make positive changes, as well as training them to look for the good in even the worst days.",
+    "github": "https://github.com/falbuna/Seeds"
 },
 {
     "id": 2,
-    "name": "Buff",
-    "image": "https://github.com/falbuna/francisalbuna/blob/main/src/assets/images/MovieQuiz.PNG",
-    "description": "Movie quiz game"
+    "title": "Buff",
+    "link": "https://falbuna.github.io/movieQuiz/dist/index.html",
+    "image": "/assets/images/MovieQuiz.PNG",
+    "description": "This application will quiz the user on whether an actor has been in a movie or if a given movie has an actor. The application uses JQuery and the Movie Database API to gather movies and actors/actresses.",
+    "github": "https://github.com/falbuna/movieQuiz"
 },
 {
     "id": 3,
-    "name": "Burger Time",
-    "image": "https://github.com/falbuna/francisalbuna/blob/main/src/assets/images/BurgerTime.png",
-    "description": "Burger eating app."
+    "title": "Note Taker",
+    "link": "https://tranquil-peak-61226.herokuapp.com/",
+    "image": "/assets/images/NoteTaker.png",
+    "description": "This application uses Express to save and retried note data from a JSON file. This application allows user to create and save notes directly to the page.",
+    "github": "https://github.com/falbuna/Note_Taker"
+},
+{
+    "id": 4,
+    "title": "Workout Tracker",
+    "link": "https://young-eyrie-39127.herokuapp.com/",
+    "image": "/assets/images/WorkoutTracker.png",
+    "description": "This application uses MongoDB and Express to allow the user to view and create daily workouts. The user can also track their exercise and view the combined weight of multiple exercises on a stats page.",
+    "github": "https://github.com/falbuna/Workout_Tracker"
+},
+{
+    "id": 5,
+    "title": "User Directory",
+    "link": "https://shielded-atoll-62358.herokuapp.com/",
+    "image": "/assets/images/EmployeeDirectory.png",
+    "description": "This application uses React to render a table of random people from the Randomusers API. The user will then be able to search for a user or sort the names by alphabetical order.",
+    "github": "https://github.com/falbuna/User_Directory"
+},
+{
+    "id": 6,
+    "title": "Budget Tracker",
+    "link": "https://immense-taiga-11622.herokuapp.com/",
+    "image": "/assets/images/BurgerTime.png",
+    "description": "Burger eating app.",
+    "github": "https://github.com/falbuna/Burger"
 }
 ]
