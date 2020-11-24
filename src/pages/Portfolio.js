@@ -16,7 +16,7 @@ class Portfolio extends Component {
       <div className="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
         <div className="space-y-5 sm:space-y-4">
           <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl">Portfolio</h2>
-          <p className="text-xl text-gray-600">I chose a variety of different projects that showcased my knowledge and technical experience in HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, JQuery, MySQL, MongoDB, Express, Handlebars.js, and ReactJS.</p>
+          <p className="text-xl text-gray-600">I chose a variety of projects that will showcase my knowledge and technical experience in HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, JQuery, MySQL, MongoDB, Express, Handlebars.js, and ReactJS.</p>
         </div>
 
           <div className="lg:col-span-2">
@@ -25,8 +25,9 @@ class Portfolio extends Component {
               id={project.id}
               key={project.id}
               title={project.title}
-              image={project.image}
               description={project.description}
+              image={project.image}
+              summary={project.summary}
               link={project.link}
               github={project.github}
               />

@@ -2,49 +2,55 @@
 {
     "id": 1,
     "title": "Seeds",
+    "description": "is a mood and gratitude tracker that records and charts your good and bad days.",
     "link": "https://hidden-caverns-84141.herokuapp.com/",
     "image": "/assets/images/Seeds.png",
-    "description": "Seeds is designed to help people be more happy by teaching them to be mindful of what is causing negative patterns in their life in order to make positive changes, as well as training them to look for the good in even the worst days.",
+    "summary": "This application is built with HTML, Tailwind CSS, Handlebars, Javascript, JQuery, Passport, Bcrypt, Express Sessions, and MySQL.",
     "github": "https://github.com/falbuna/Seeds"
 },
 {
     "id": 2,
     "title": "Buff",
+    "description": "is a Movie Quiz game where it will ask the user on whether an actor has been in a movie or if a given movie has an actor.  ",
     "link": "https://falbuna.github.io/movieQuiz/dist/index.html",
     "image": "/assets/images/MovieQuiz.PNG",
-    "description": "This application will quiz the user on whether an actor has been in a movie or if a given movie has an actor. The application uses JQuery and the Movie Database API to gather movies and actors/actresses.",
+    "summary": "The application uses HTML, Tailwind CSS, and JQuery to render the pages and uses the Movie Database API to gather movies and actors/actresses.",
     "github": "https://github.com/falbuna/movieQuiz"
 },
 {
     "id": 3,
     "title": "Note Taker",
+    "description": "is a note taking app that allows the user to create and save notes directly to the page.",
     "link": "https://tranquil-peak-61226.herokuapp.com/",
     "image": "/assets/images/NoteTaker.png",
-    "description": "This application uses Express to save and retried note data from a JSON file. This application allows user to create and save notes directly to the page.",
+    "summary": "This application uses Express to save and retrieve note data from a JSON file. The user is able to create, save, view previous notes, and delete notes that will be saved to the page.",
     "github": "https://github.com/falbuna/Note_Taker"
 },
 {
     "id": 4,
     "title": "Workout Tracker",
+    "description":" is an application that allows the user to track their workouts and view metrics for each workout.",
     "link": "https://young-eyrie-39127.herokuapp.com/",
     "image": "/assets/images/WorkoutTracker.png",
-    "description": "This application uses MongoDB and Express to allow the user to view and create daily workouts. The user can also track their exercise and view the combined weight of multiple exercises on a stats page.",
+    "summary": "This application uses MongoDB and Express to allow the user to view and create daily workouts.",
     "github": "https://github.com/falbuna/Workout_Tracker"
 },
 {
     "id": 5,
     "title": "User Directory",
+    "description": "is an application that allows the user to sort and search a table of users.",
     "link": "https://shielded-atoll-62358.herokuapp.com/",
     "image": "/assets/images/EmployeeDirectory.png",
-    "description": "This application uses React to render a table of random people from the Randomusers API. The user will then be able to search for a user or sort the names by alphabetical order.",
+    "summary": "This application uses React to render a table of random people from the Randomusers API. The user will then be able to search for a user or sort the names by alphabetical order.",
     "github": "https://github.com/falbuna/User_Directory"
 },
 {
     "id": 6,
-    "title": "Budget Time!",
+    "title": "Burger Time!",
+    "description": "is a burger logger that will keep track of burgers of that have been eaten and are waiting to be eaten. ",
     "link": "https://immense-taiga-11622.herokuapp.com/",
     "image": "/assets/images/BurgerTime.png",
-    "description": "Burger Time is a burger logger that will keep track of burgers of that have been eaten and are waiting to be eaten. This application uses MySQL, Node, express, Handlebars, and ORM to create the burger log.",
+    "summary": "This application uses MySQL, Node, express, Handlebars, and ORM to create the burger log.",
     "github": "https://github.com/falbuna/Burger"
 }
 ]
