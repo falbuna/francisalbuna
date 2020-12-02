@@ -8,7 +8,7 @@ This Portfolio was made with HTML, React.js, Tailwind CSS.
 
 ## Usage
 
-This portfolio was mobile responsive and styled through the Tailwind CSS framework.
+This portfolio was made mobile responsive.
 
 On a desktop: 
 
