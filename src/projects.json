@@ -2,16 +2,16 @@
 {
     "id": 1,
     "title": "Seeds",
-    "description": "is a mood and gratitude tracker that records and charts your good and bad days.",
-    "link": "https://hidden-caverns-84141.herokuapp.com/",
+    "description": "is a happiness and gratitude tracker that records and charts your posted days. Start planting the seed towards a happier and richer life.",
+    "link": "https://seeds-app.herokuapp.com/",
     "image": "/assets/images/Seeds.png",
-    "summary": "This application is built with HTML, Tailwind CSS, Handlebars, Javascript, JQuery, Passport, Bcrypt, Express Sessions, and MySQL.",
-    "github": "https://github.com/falbuna/Seeds"
+    "summary": "This application was built with Node and React and was styled with Tailwind CSS. The application also uses MySQL, Express, Passport, and Bcrypt to store data to the database and authenticate the user.",
+    "github": "https://github.com/falbuna/Seeds_React"
 },
 {
     "id": 2,
-    "title": "Buff",
-    "description": "is a Movie Quiz game where it will ask the user on whether an actor has been in a movie or if a given movie has an actor.  ",
+    "title": "Movie Buff",
+    "description": "is a fun and addicting Movie Quiz game that tests your knowledge on actors and movies. Can you guess if an actor has been in that movie? Play to find out!",
     "link": "https://falbuna.github.io/movieQuiz/dist/index.html",
     "image": "/assets/images/MovieQuiz.PNG",
     "summary": "The application uses HTML, Tailwind CSS, and JQuery to render the pages and uses the Movie Database API to gather movies and actors/actresses.",
@@ -19,38 +19,38 @@
 },
 {
     "id": 3,
-    "title": "Note Taker",
-    "description": "is a note taking app that allows the user to create and save notes directly to the page.",
-    "link": "https://tranquil-peak-61226.herokuapp.com/",
-    "image": "/assets/images/NoteTaker.png",
-    "summary": "This application uses Express to save and retrieve note data from a JSON file. The user is able to create, save, view previous notes, and delete notes that will be saved to the page.",
-    "github": "https://github.com/falbuna/Note_Taker"
+    "title": "Google Books Search",
+    "description": "is an application that allows the user to search for and save books from Google Books. The page will keep track of your saved books to view later.",
+    "link": "https://shrouded-hamlet-73636.herokuapp.com",
+    "image": "/assets/images/GoogleBooks.png",
+    "summary": "This application uses MongoDB, Express, React, and Node to search for books from the Google Books API. The application was styled with Tailwind CSS.",
+    "github": "https://github.com/falbuna/Google_Books_Search"
 },
 {
     "id": 4,
+    "title": "Note Taker",
+    "description": "is a note taking app that allows the user to create and save notes directly to the browser.",
+    "link": "https://tranquil-peak-61226.herokuapp.com/",
+    "image": "/assets/images/NoteTaker.png",
+    "summary": "This application uses Express to save and retrieve note data from a JSON file. The page was styled with Bootstrap.",
+    "github": "https://github.com/falbuna/Note_Taker"
+},
+{
+    "id": 5,
     "title": "Workout Tracker",
     "description":" is an application that allows the user to track their workouts and view metrics for each workout.",
     "link": "https://young-eyrie-39127.herokuapp.com/",
     "image": "/assets/images/WorkoutTracker.png",
-    "summary": "This application uses MongoDB and Express to allow the user to view and create daily workouts.",
+    "summary": "This application uses MongoDB and Express to allow the user to view and create daily workouts. The application was styled with Bootstrap.",
     "github": "https://github.com/falbuna/Workout_Tracker"
 },
 {
-    "id": 5,
+    "id": 6,
     "title": "User Directory",
-    "description": "is an application that allows the user to sort and search a table of users.",
+    "description": "is an application that allows the user to sort and search a table of randomly generated users.",
     "link": "https://shielded-atoll-62358.herokuapp.com/",
     "image": "/assets/images/EmployeeDirectory.png",
-    "summary": "This application uses React to render a table of random people from the Randomusers API. The user will then be able to search for a user or sort the names by alphabetical order.",
+    "summary": "This application uses React to render a table of random people from the Randomusers API. The application was styled with Bootstrap.",
     "github": "https://github.com/falbuna/User_Directory"
-},
-{
-    "id": 6,
-    "title": "Burger Time!",
-    "description": "is a burger logger that will keep track of burgers of that have been eaten and are waiting to be eaten. ",
-    "link": "https://immense-taiga-11622.herokuapp.com/",
-    "image": "/assets/images/BurgerTime.png",
-    "summary": "This application uses MySQL, Node, express, Handlebars, and ORM to create the burger log.",
-    "github": "https://github.com/falbuna/Burger"
 }
 ]
