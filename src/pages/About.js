@@ -36,6 +36,18 @@ function About() {
               <p>I graduated in 2010 with a Bachelor of Science in Electrical Engineering at the University of California, Irvine. I am currently enrolled in the 6-month coding program at the University of California, San Diego Extension.</p>
               <p>While taking the 6-month coding program, I found a passion in creating responsive and user-friendly applications and interest in developing my understanding in new and existing technologies. I am also determined in using my extensive experience in electronics troubleshooting, manufacturing leadership and development, and IT support to succeed and excel in a different career field.</p>
               <p>In my spare time, you can find me cooking, watching movies, playing video games, or staying active by lifting weights or hiking.</p>
+              <p className="text-lg font-bold text-black">Technical Skills:</p>
+              <div className="-mt-4">
+                <ul>
+                  <li>Javascript</li>
+                  <li>React</li>
+                  <li>NodeJS</li>
+                  <li>MySQL</li>
+                  <li>MongoDB</li>
+                  <li>CSS Frameworks(Tailwind and Bootstrap)</li>
+                  <li>Java</li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
