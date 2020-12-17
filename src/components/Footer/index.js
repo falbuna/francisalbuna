@@ -18,11 +18,11 @@ function Footer() {
           Portfolio
         </a>
       </div>
-      <div className="px-5 py-2">
+      {/* <div className="px-5 py-2">
         <a href="Contact" className="text-base text-gray-500 hover:text-gray-900">
           Contact
         </a>
-      </div>
+      </div> */}
     </nav>
     <p className="mt-8 text-center text-base text-gray-500 hover:text-gray-900">
     <a href="mailto:falbuna1@gmail.com">falbuna1@gmail.com</a>
