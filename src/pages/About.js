@@ -33,9 +33,9 @@ function About() {
               <p className="text-lg font-bold text-black">And welcome to my personal portfolio.</p>
             </div>
             <div className="mt-5 prose prose-indigo text-gray-600 mx-auto lg:max-w-none lg:row-start-1 lg:col-start-1">
-              <p>I graduated in 2010 with a Bachelor of Science in Electrical Engineering at the University of California, Irvine. I am currently enrolled in the 6-month coding program at the University of California, San Diego Extension.</p>
+              <p>I graduated in 2010 with a Bachelor of Science in Electrical Engineering at the University of California, Irvine. I recently completed a 6-month coding program at the University of California, San Diego Extension.</p>
               <p>While taking the 6-month coding program, I found a passion in creating responsive and user-friendly applications and interest in developing my understanding in new and existing technologies. I am also determined in using my extensive experience in electronics troubleshooting, manufacturing leadership and development, and IT support to succeed and excel in a different career field.</p>
-              <p>In my spare time, you can find me cooking, watching movies, playing video games, or staying active by lifting weights or hiking.</p>
+              <p>In my spare time, you can find me cooking, watching movies, learning a new technology, or staying active by lifting weights or hiking.</p>
               <p className="text-lg font-bold text-black">Technical Skills:</p>
               <div className="-mt-4">
                 <ul>
